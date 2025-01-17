@@ -1,17 +1,17 @@
-1. ABATE CESARE
-2. CAPPELLI MIRIAM
-3. DI PERNA FILIPPO
-4. FERRACCIOLI BEATRICE
-5. 	GODANI DANIELE    Sono troppo Bravo!!!
-6. 	MATTEO MANUEL 	Ricevuto, Prof!!!!								
-7. 	MIRCESCU TARCAOANU MICHELI CORADO <3 i love Benny
-8. 	MULA FEDERICO 					Ricevuto, Prof!!!!
-9. 	ORLANDI ANGELICA 							
-10. 	PALA MAFTEI ALESSANDRO 	Era forte Maradona...								
-11. 	PIERUCCI ALESSANDRO   Ricevuto, Prof!!!!														
-12. 	PORCHIANELLO ALESSANDRO 	Ricevuto, prof!!						
-13. 	RESTIVO MARTINA 										
-14. 	SANTINELLI DAVIDE 		<3 						
-15. SORESINA DANIELE 		prof non ho git Bash sul PC per prendere il 9!!											
-16. 	TARTAGLIA EROS 					mafioso annoiato		
+01.   ABATE CESARE
+02.   CAPPELLI MIRIAM
+03.   DI PERNA FILIPPO
+04.   FERRACCIOLI BEATRICE
+05. 	GODANI DANIELE    Sono troppo Bravo!!!
+06. 	MATTEO MANUEL 	Ricevuto, Prof!!!!		
+07. 	MIRCESCU TARCAOANU MICHELI CORADO <3 i love Benny
+08. 	MULA FEDERICO 					Ricevuto, Prof!!!!
+09. 	ORLANDI ANGELICA 	
+10. 	PALA MAFTEI ALESSANDRO 	Era forte Maradona...			
+11. 	PIERUCCI ALESSANDRO   Ricevuto, Prof!!!!			
+12. 	PORCHIANELLO ALESSANDRO 	Ricevuto, prof!!			
+13. 	RESTIVO MARTINA 	
+14. 	SANTINELLI DAVIDE 		<3 		
+15. SORESINA DANIELE 		prof non ho git Bash sul PC per prendere il 9!!		
+16. 	TARTAGLIA EROS 					mafioso annoiato	
 17. 	VOCCIANTE CHIARA       fatto prof !!!
